@@ -1,0 +1,9 @@
+.canvas {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: calc((100vh - (100vw * 3 / 5)) / 2) calc((100vw - (100vh * 5 / 3)) / 2);
+  background-color: rgb(0, 0, 0);
+}
